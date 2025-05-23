@@ -2,3 +2,9 @@ mlflow
 numpy
 scikit-learn
 tensorflow
+streamlit
+opencv-python-headless
+numpy
+joblib
+scikit-learn
+pillow
